@@ -1,5 +1,5 @@
 import "./slider"
-import "./modals"
+import modals from "./modals"
 
 
 
